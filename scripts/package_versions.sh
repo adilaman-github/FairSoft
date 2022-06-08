@@ -25,7 +25,7 @@ export PYTHIA6VERSION=pythia6
 export HEPMC_LOCATION="https://hepmc.web.cern.ch/hepmc/releases"
 export HEPMCVERSION=2.06.09
 
-export PYTHIA8_LOCATION="https://pythia.org/download/pythia82/"
+export PYTHIA8_LOCATION="https://pythia.org/releases/"
 export PYTHIA8VERSION=pythia8240
 
 export XERCESC_LOCATION="https://archive.apache.org/dist/xerces/c/3/sources/"
